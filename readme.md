@@ -8,9 +8,10 @@
   _Note: All data sources used in this project ( from data directory ) is for demonstration purposes._
   
 ## Contents
-- ### Python Language : Proficiency in Python: Good command over Python programming language, including knowledge of the core
+- ### Python Language : Good command over Python programming language, including knowledge of the core
   language features, data structures, and control flow. Ability to write clean, readable, and efficient code.
   <br>
   [Python Archive →](https://github.com/aienx/python-archive)
   
 - ### Data Analysis and Visualisation
+  
